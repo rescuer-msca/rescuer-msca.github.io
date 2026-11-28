@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220">
+  <title>RESCUER</title>
+  <g transform="translate(118 110) rotate(-32)">
+    <path fill="#7fa9bd" d="M5.50,-99.85 A100,100 0 1 0 5.50,99.85 A100,100 0 0 1 5.50,-99.85Z"/>
+    <path fill="#ffffff" d="M18.50,-99.90 A100,100 0 1 0 18.50,99.90 A100,100 0 0 1 18.50,-99.90Z"/>
+    <path fill="#33bfe8" d="M31.00,-99.87 A100,100 0 1 0 31.00,99.87 A100,100 0 0 1 31.00,-99.87Z"/>
+  </g>
+  <text x="100" y="140" fill="#ffffff" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="92" letter-spacing="2">RESCUER</text>
+</svg>
